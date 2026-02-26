@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<!-- Developped  by Ebtihal Mustafa and Mohammed Karim BOUZOUBAA  -->
+<!-- this xml file describes the Arabic phonetic constraints resulting from the analysis of the lexicons.
+	The first and second categories show that any connected letter must not be redundant. 
+	The third category of rules lists the letters that must not occur in the same root, regardless of their order.
+	the fourth category lists the letters that may not be used together in a certain  order in a root word.-->
+
+<Rules>
+	<Rules_Category cat_id="0" value="composed of identical letters">
+		<Rule id="0" letter1="أ" letter2="أ" letter3="أ"></Rule>
+		<Rule id="1" letter1="ب" letter2="ب" letter3="ب"></Rule>
+		<Rule id="2" letter1="ت" letter2="ت" letter3="ت"></Rule>
+		<Rule id="3" letter1="ث" letter2="ث" letter3="ث"></Rule>
+		<Rule id="4" letter1="ج" letter2="ج" letter3="ج"></Rule>
+		<Rule id="5" letter1="ح" letter2="ح" letter3="ح"></Rule>
+		<Rule id="6" letter1="خ" letter2="خ" letter3="خ"></Rule>
+		<Rule id="7" letter1="د" letter2="د" letter3="د"></Rule>
+		<Rule id="8" letter1="ذ" letter2="ذ" letter3="ذ"></Rule>
+		<Rule id="9" letter1="ر" letter2="ر" letter3="ر"></Rule>
+		<Rule id="10" letter1="ز" letter2="ز" letter3="ز"></Rule>
+		<Rule id="11" letter1="س" letter2="س" letter3="س"></Rule>
+		<Rule id="12" letter1="ش" letter2="ش" letter3="ش"></Rule>
+		<Rule id="13" letter1="ص" letter2="ص" letter3="ص"></Rule>
+		<Rule id="14" letter1="ض" letter2="ض" letter3="ض"></Rule>
+		<Rule id="15" letter1="ط" letter2="ط" letter3="ط"></Rule>
+		<Rule id="16" letter1="ظ" letter2="ظ" letter3="ظ"></Rule>
+		<Rule id="17" letter1="ع" letter2="ع" letter3="ع"></Rule>
+		<Rule id="18" letter1="غ" letter2="غ" letter3="غ"></Rule>
+		<Rule id="19" letter1="ف" letter2="ف" letter3="ف"></Rule>
+		<Rule id="20" letter1="ق" letter2="ق" letter3="ق"></Rule>
+		<Rule id="21" letter1="ك" letter2="ك" letter3="ك"></Rule>
+		<Rule id="22" letter1="ل" letter2="ل" letter3="ل"></Rule>
+		<Rule id="23" letter1="م" letter2="م" letter3="م"></Rule>
+		<Rule id="24" letter1="ن" letter2="ن" letter3="ن"></Rule>
+		<Rule id="25" letter1="ه" letter2="ه" letter3="ه"></Rule>
+		<Rule id="26" letter1="و" letter2="و" letter3="و"></Rule>
+		<Rule id="27" letter1="ي" letter2="ي" letter3="ي"></Rule>
+	</Rules_Category>
+	<Rules_Category cat_id="1" value="start with two identical letters">
+		<Rule id="28" letter1="أ" letter2="أ"></Rule>
+		<Rule id="29" letter1="ب" letter2="ب"></Rule>
+		<Rule id="30" letter1="ت" letter2="ت"></Rule>
+		<Rule id="31" letter1="ث" letter2="ث"></Rule>
+		<Rule id="32" letter1="ج" letter2="ج"></Rule>
+		<Rule id="33" letter1="ح" letter2="ح"></Rule>
+		<Rule id="34" letter1="خ" letter2="خ"></Rule>
+		<Rule id="35" letter1="د" letter2="د"></Rule>
+		<Rule id="36" letter1="ذ" letter2="ذ"></Rule>
+		<Rule id="37" letter1="ر" letter2="ر"></Rule>
+		<Rule id="38" letter1="ز" letter2="ز"></Rule>
+		<Rule id="39" letter1="س" letter2="س"></Rule>
+		<Rule id="40" letter1="ش" letter2="ش"></Rule>
+		<Rule id="41" letter1="ص" letter2="ص"></Rule>
+		<Rule id="42" letter1="ض" letter2="ض"></Rule>
+		<Rule id="43" letter1="ط" letter2="ط"></Rule>
+		<Rule id="44" letter1="ظ" letter2="ظ"></Rule>
+		<Rule id="45" letter1="ع" letter2="ع"></Rule>
+		<Rule id="46" letter1="غ" letter2="غ"></Rule>
+		<Rule id="47" letter1="ف" letter2="ف"></Rule>
+		<Rule id="48" letter1="ق" letter2="ق"></Rule>
+		<Rule id="49" letter1="ك" letter2="ك"></Rule>
+		<Rule id="50" letter1="ل" letter2="ل"></Rule>
+		<Rule id="51" letter1="م" letter2="م"></Rule>
+		<Rule id="52" letter1="ن" letter2="ن"></Rule>
+		<Rule id="53" letter1="ه" letter2="ه"></Rule>
+		<Rule id="54" letter1="و" letter2="و"></Rule>
+		<Rule id="55" letter1="ي" letter2="ي"></Rule>
+	</Rules_Category>
+	<Rules_Category cat_id="2" value="can't be together">
+		<Rule id="56" letter1="أ" letter2="ع"></Rule>
+		<Rule id="57" letter1="ت" letter2="ظ"></Rule>
+		<Rule id="58" letter1="ث" letter2="ز"></Rule>
+		<Rule id="59" letter1="ث" letter2="ص"></Rule>
+		<Rule id="60" letter1="ث" letter2="ض"></Rule>
+		<Rule id="61" letter1="ج" letter2="ص"></Rule>
+		<Rule id="62" letter1="ج" letter2="ط"></Rule>
+		<Rule id="63" letter1="ج" letter2="ق"></Rule>
+		<Rule id="64" letter1="ج" letter2="ك"></Rule>
+		<Rule id="65" letter1="ح" letter2="أ"></Rule>
+		<Rule id="66" letter1="ذ" letter2="ز"></Rule>
+		<Rule id="67" letter1="ذ" letter2="ص"></Rule>
+		<Rule id="68" letter1="ذ" letter2="ط"></Rule>
+		<Rule id="69" letter1="ذ" letter2="ظ"></Rule>
+		<Rule id="70" letter1="ز" letter2="ذ"></Rule>
+		<Rule id="71" letter1="ز" letter2="ش"></Rule>
+		<Rule id="72" letter1="س" letter2="ث"></Rule>
+		<Rule id="73" letter1="س" letter2="ذ"></Rule>
+		<Rule id="74" letter1="س" letter2="ش"></Rule>
+		<Rule id="75" letter1="س" letter2="ض"></Rule>
+		<Rule id="76" letter1="س" letter2="ظ"></Rule>
+		<Rule id="77" letter1="ص" letter2="ج"></Rule>
+		<Rule id="78" letter1="ص" letter2="ض"></Rule>
+		<Rule id="79" letter1="ص" letter2="ظ"></Rule>
+		<Rule id="80" letter1="ض" letter2="ز"></Rule>
+		<Rule id="81" letter1="ط" letter2="ج"></Rule>
+		<Rule id="82" letter1="ط" letter2="ذ"></Rule>
+		<Rule id="83" letter1="ط" letter2="ض"></Rule>
+		<Rule id="84" letter1="ظ" letter2="د"></Rule>
+		<Rule id="85" letter1="ظ" letter2="ذ"></Rule>
+		<Rule id="86" letter1="ظ" letter2="س"></Rule>
+		<Rule id="87" letter1="ظ" letter2="ص"></Rule>
+		<Rule id="88" letter1="ظ" letter2="ض"></Rule>
+		<Rule id="89" letter1="ظ" letter2="ط"></Rule>
+		<Rule id="90" letter1="ظ" letter2="غ"></Rule>
+		<Rule id="91" letter1="ظ" letter2="ك"></Rule>
+		<Rule id="92" letter1="ع" letter2="أ"></Rule>
+		<Rule id="93" letter1="ع" letter2="خ"></Rule>
+		<Rule id="94" letter1="غ" letter2="أ"></Rule>
+		<Rule id="95" letter1="ق" letter2="ج"></Rule>
+		<Rule id="96" letter1="ل" letter2="ر"></Rule>
+		<Rule id="97" letter1="ل" letter2="ش"></Rule>
+		<Rule id="98" letter1="م" letter2="ب"></Rule>
+		<Rule id="99" letter1="م" letter2="ف"></Rule>
+		<Rule id="100" letter1="ه" letter2="غ"></Rule>
+	</Rules_Category>
+	<Rules_Category cat_id="3" value="can't be followed by">
+		<Rule id="101" letter1="ث" letter2="س"></Rule>
+		<Rule id="102" letter1="خ" letter2="ك"></Rule>
+		<Rule id="103" letter1="ذ" letter2="ت"></Rule>
+		<Rule id="104" letter1="ز" letter2="ث"></Rule>
+		<Rule id="105" letter1="ش" letter2="ض"></Rule>
+		<Rule id="106" letter1="ص" letter2="ث"></Rule>
+		<Rule id="107" letter1="ض" letter2="ص"></Rule>
+		<Rule id="108" letter1="ظ" letter2="ت"></Rule>
+		<Rule id="109" letter1="ظ" letter2="خ"></Rule>
+		<Rule id="110" letter1="ظ" letter2="ق"></Rule>
+	</Rules_Category>
+</Rules>

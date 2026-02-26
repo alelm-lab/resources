@@ -1,0 +1,1290 @@
+<?xml version="1.0" ?>
+<!-- Developped  by   -->
+<!-- this xml file is a lexicon including all arabic Patterns.--> 
+<Patterns_lexicon>
+	<Nominal_Patterns>
+		<Pattern id='1' vow='أَفعَل' >
+			<case pos='2g' ex='أَبْخَل' />
+			<case pos='2h' ex='أَبْكَم' />
+		</Pattern>
+		<Pattern id='2' vow='أُفعولَة' >
+			<case pos='2f' ex='أُرْجوحَة' />
+		</Pattern>
+		<Pattern id='3' vow='إِفعال' >
+			<case pos='3a' ex='إِبْداع' />
+		</Pattern>
+		<Pattern id='4' vow='إِفعالَة' >
+			<case pos='3c' ex='إِسْجادَة' />
+		</Pattern>
+		<Pattern id='5' vow='إِفعيل' >
+			<case pos='2f' ex='إزْمِيل' />
+		</Pattern>
+		<Pattern id='6' vow='استِفعال' >
+			<case pos='3a' ex='اِسْتِبْعاد' />
+		</Pattern>
+		<Pattern id='7' vow='استِفعالَة' >
+			<case pos='3c' ex='اِسْتِحْداثَة' />
+		</Pattern>
+		<Pattern id='8' vow='افتِعال' >
+			<case pos='3a' ex='اِكْتِئاب' />
+		</Pattern>
+		<Pattern id='9' vow='افتِعالَة' >
+			<case pos='3c' ex='اِسْتِعارَة' />
+		</Pattern>
+		<Pattern id='10' vow='افعِلال' >
+			<case pos='3a' ex='اِحْمِرَار' />
+		</Pattern>
+		<Pattern id='11' vow='افعِلالَة' >
+			<case pos='3c' ex='اِدْهِمامَة' />
+		</Pattern>
+		<Pattern id='12' vow='افعِوّال' >
+			<case pos='3a' ex='اِجْلِوّاذ' />
+		</Pattern>
+		<Pattern id='13' vow='افعِوّالَة' >
+			<case pos='3c' ex='اِجْلِوّاذَة' />
+		</Pattern>
+		<Pattern id='14' vow='افعيعال' >
+			<case pos='3a' ex='اِقْطيطاع' />
+		</Pattern>
+		<Pattern id='15' vow='افعيعالَة' >
+			<case pos='3c' ex='اِسْتِثْآرَة' />
+		</Pattern>
+		<Pattern id='16' vow='افعيلال' >
+			<case pos='3a' ex='اِحْمِيرار' />
+		</Pattern>
+		<Pattern id='17' vow='افعِيلالَة' >
+			<case pos='3c' ex='اِوْريقاقَة' />
+		</Pattern>
+		<Pattern id='18' vow='انفِعال' >
+			<case pos='3a' ex='اِنْبِهار' />
+		</Pattern>
+		<Pattern id='19' vow='انفِعالَة' >
+			<case pos='3c' ex='اِنْدِلاعَة' />
+		</Pattern>
+		<Pattern id='20' vow='تَفاعُل' >
+			<case pos='3a' ex='تَبايُن' />
+		</Pattern>
+		<Pattern id='21' vow='تَفاعُلَة' >
+			<case pos='3c' ex='تَباهُجَة' />
+		</Pattern>
+		<Pattern id='22' vow='تَفعال' >
+			<case pos='3a' ex='تَشْهاق' />
+		</Pattern>
+		<Pattern id='23' vow='تِفعال' >
+			<case pos='3a' ex='تِبْيان' />
+		</Pattern>
+		<Pattern id='24' vow='تَفَعُّل' >
+			<case pos='3a' ex='تَبَرُّع' />
+		</Pattern>
+		<Pattern id='25' vow='تَفَعُّلَة' >
+			<case pos='3c' ex='تَبَصُّرَة' />
+		</Pattern>
+		<Pattern id='26' vow='تَفعُلَة' >
+			<case pos='3a' ex='تَهْلُكَة' />
+		</Pattern>
+		<Pattern id='27' vow='تَفعيل' >
+			<case pos='3a' ex='تَأْثير' />
+		</Pattern>
+		<Pattern id='28' vow='تَفعيلَة' >
+			<case pos='3c' ex='تَبْهيجَة' />
+		</Pattern>
+		<Pattern id='29' vow='عَلَة' >
+			<case pos='3a' ex='سَعَة' />
+		</Pattern>
+		<Pattern id='30' vow='عِلَة' >
+			<case pos='3a' ex='رِقَة' />
+		</Pattern>
+		<Pattern id='31' vow='فاعِل' >
+			<case pos='2a' ex='كاتِب' />
+		</Pattern>
+		<Pattern id='32' vow='فاعِلَة' >
+			<case pos='2c' ex='داهِيَة' />
+			<case pos='2f' ex='حاسِبَة' />
+			<case pos='3a' ex='كاشِفَة' />
+		</Pattern>
+		<Pattern id='33' vow='فاعول' >
+			<case pos='2c' ex='جَاسوس' />
+			<case pos='2f' ex='حاسُوب' />
+		</Pattern>
+		<Pattern id='34' vow='فاعولَة' >
+			<case pos='2f' ex='ناعُورَة' />
+		</Pattern>
+		<Pattern id='35' vow='فَعال' >
+			<case pos='3a' ex='حَصاد' />
+		</Pattern>
+		<Pattern id='36' vow='فَعّال' >
+			<case pos='2c' ex='جَرّاح' />
+			<case pos='2f' ex='سَخّان' />
+		</Pattern>
+		<Pattern id='37' vow='فُعال' >
+			<case pos='3a' ex='بُخار' />
+		</Pattern>
+		<Pattern id='38' vow='فِعال' >
+			<case pos='2f' ex='شِراع' />
+			<case pos='3a' ex='خِصام' />
+		</Pattern>
+		<Pattern id='39' vow='فِعّال' >
+			<case pos='3a' ex='كِذّاب' />
+		</Pattern>
+		<Pattern id='40' vow='فَعالَة' >
+			<case pos='3a' ex='نَقابَة' />
+		</Pattern>
+		<Pattern id='41' vow='فَعّالَة' >
+			<case pos='2c' ex='عَلاّمَة' />
+			<case pos='2f' ex='دَرّاجَة' />
+		</Pattern>
+		<Pattern id='42' vow='فُعالَة' >
+			<case pos='2f' ex='رُجاحَة' />
+			<case pos='3a' ex='دُعَابَة' />
+		</Pattern>
+		<Pattern id='43' vow='فِعالَة' >
+			<case pos='3a' ex='ضِيافَة' />
+		</Pattern>
+		<Pattern id='44' vow='فَعالِيَة' >
+			<case pos='3a' ex='صَلاحِيَة' />
+		</Pattern>
+		<Pattern id='45' vow='فَعَل' >
+			<case pos='3a' ex='قَدَر' />
+		</Pattern>
+		<Pattern id='46' vow='فَعِل' >
+			<case pos='2c' ex='حَذِر' />
+			<case pos='2h' ex='فَرِح' />
+			<case pos='3a' ex='كَذِب' />
+		</Pattern>
+		<Pattern id='47' vow='فَعل' >
+			<case pos='2h' ex='رَطْب' />
+			<case pos='3a' ex='بَطْش' />
+		</Pattern>
+		<Pattern id='48' vow='فُعَل' >
+			<case pos='3a' ex='هُدًى' />
+		</Pattern>
+		<Pattern id='49' vow='فُعُل' >
+			<case pos='3a' ex='حُلُم' />
+		</Pattern>
+		<Pattern id='50' vow='فُعل' >
+			<case pos='3a' ex='عُسْر' />
+		</Pattern>
+		<Pattern id='51' vow='فِعَل' >
+			<case pos='3a' ex='كِبَر' />
+		</Pattern>
+		<Pattern id='52' vow='فِعل' >
+			<case pos='3a' ex='حِلْف' />
+		</Pattern>
+		<Pattern id='53' vow='فَعَلان' >
+			<case pos='3a' ex='خَفَقان' />
+		</Pattern>
+		<Pattern id='54' vow='فَعلان' >
+			<case pos='2h' ex='عَطْشان' />
+		</Pattern>
+		<Pattern id='55' vow='فُعلان' >
+			<case pos='3a' ex='خُسْران' />
+		</Pattern>
+		<Pattern id='56' vow='فِعلان' >
+			<case pos='3a' ex='حِرْمان' />
+		</Pattern>
+		<Pattern id='57' vow='فَعَلَة' >
+			<case pos='2f' ex='بَكَرَة' />
+			<case pos='3a' ex='يَقَظَة' />
+		</Pattern>
+		<Pattern id='58' vow='فَعِلَة' >
+			<case pos='3a' ex='سَرِقَة' />
+		</Pattern>
+		<Pattern id='59' vow='فَعلَة' >
+			<case pos='2f' ex='حَرْبَة' />
+			<case pos='3a' ex='صَفْقَة' />
+			<case pos='3c' ex='بَيْعَة' />
+		</Pattern>
+		<Pattern id='60' vow='فُعَلَة' >
+			<case pos='2c' ex='ضُحَكَة' />
+		</Pattern>
+		<Pattern id='61' vow='فُعلَة' >
+			<case pos='2f' ex='حُقْنَة' />
+			<case pos='3a' ex='هُدْنَة' />
+		</Pattern>
+		<Pattern id='62' vow='فِعَلَة' >
+			<case pos='3a' ex='خِيَرَة' />
+		</Pattern>
+		<Pattern id='63' vow='فِعلَة' >
+			<case pos='2f' ex='إِبْرَة' />
+			<case pos='3a' ex='خِدْمَة' />
+			<case pos='3d' ex='بِدْعَة' />
+		</Pattern>
+		<Pattern id='64' vow='فَعَلوت' >
+			<case pos='3a' ex='جَبَرُوت' />
+		</Pattern>
+		<Pattern id='65' vow='فَعلولَة' >
+			<case pos='3a' ex='غَيْبوبَة' />
+		</Pattern>
+		<Pattern id='66' vow='فَعلى' >
+			<case pos='3a' ex='دَعْوى' />
+		</Pattern>
+		<Pattern id='67' vow='فُعلى' >
+			<case pos='3a' ex='رُجْعَى' />
+		</Pattern>
+		<Pattern id='68' vow='فِعلى' >
+			<case pos='3a' ex='ذِكْرى' />
+		</Pattern>
+		<Pattern id='69' vow='فِعلِيّ' >
+			<case pos='3a' ex='سِخْرِيّ' />
+		</Pattern>
+		<Pattern id='70' vow='فُعلِيَّة' >
+			<case pos='3a' ex='سُخْرِيَّة' />
+		</Pattern>
+		<Pattern id='71' vow='فَعول' >
+			<case pos='2c' ex='صَبور' />
+			<case pos='3a' ex='طَهور' />
+		</Pattern>
+		<Pattern id='72' vow='فُعول' >
+			<case pos='3a' ex='خُسوف' />
+		</Pattern>
+		<Pattern id='73' vow='فُعولَة' >
+			<case pos='3a' ex='رُطوبَة' />
+		</Pattern>
+		<Pattern id='74' vow='فُعولِيَّة' >
+			<case pos='3a' ex='أُلوهِيَّة' />
+		</Pattern>
+		<Pattern id='75' vow='فَعيل' >
+			<case pos='2c' ex='سَميع' />
+			<case pos='2h' ex='كَرِيم' />
+			<case pos='3a' ex='خَطِير' />
+		</Pattern>
+		<Pattern id='76' vow='فِعيل' >
+			<case pos='3a' ex='عِتِيٌّ' />
+		</Pattern>
+		<Pattern id='77' vow='فِعّيل' >
+			<case pos='2c' ex='صِدّيق' />
+		</Pattern>
+		<Pattern id='78' vow='فَعيلَة' >
+			<case pos='3a' ex='هَزيمَة' />
+		</Pattern>
+		<Pattern id='79' vow='فِعِّيلى' >
+			<case pos='3a' ex='خِلِّيفَى' />
+		</Pattern>
+		<Pattern id='80' vow='فَيلولَة' >
+			<case pos='3a' ex='دَيْمومَة' />
+		</Pattern>
+		<Pattern id='81' vow='مُتَفاعَل' >
+			<case pos='2b' ex='مُتَشَارَك' />
+			<case pos='2d' ex='مُتَخَاذَل' />
+			<case pos='3b' ex='مُتَبايَن' />
+		</Pattern>
+		<Pattern id='82' vow='مُتَفاعِل' >
+			<case pos='2a' ex='مُتَشَارِك' />
+		</Pattern>
+		<Pattern id='83' vow='مُتَفَعَّل' >
+			<case pos='2b' ex='مُتَدَرَّج' />
+			<case pos='2d' ex='مُتَبَرَّع' />
+			<case pos='3b' ex='مُتَأَيَّن' />
+		</Pattern>
+		<Pattern id='84' vow='مُتَفَعِّل' >
+			<case pos='2a' ex='مُتَدَرِّج' />
+		</Pattern>
+		<Pattern id='85' vow='مُستَفعَل' >
+			<case pos='2b' ex='مُسْتَغْفَر' />
+			<case pos='2d' ex='مُسْتَقْبَل' />
+			<case pos='3b' ex='مُسْتَأْيَك' />
+		</Pattern>
+		<Pattern id='86' vow='مُستَفعِل' >
+			<case pos='2a' ex='مُسْتَغْفِر' />
+		</Pattern>
+		<Pattern id='87' vow='مُفاعَل' >
+			<case pos='2b' ex='مُقَاتَل' />
+			<case pos='2d' ex='مُبَارَك' />
+			<case pos='3b' ex='مُكافَأ' />
+		</Pattern>
+		<Pattern id='88' vow='مُفاعِل' >
+			<case pos='2a' ex='مُقَاتِل' />
+		</Pattern>
+		<Pattern id='89' vow='مُفاعَلَة' >
+			<case pos='3a' ex='مُؤاخَذَة' />
+			<case pos='3c' ex='مُقارَبَة' />
+			<case pos='' ex='مُقارَبَة' />
+		</Pattern>
+		<Pattern id='90' vow='مُفتَعَل' >
+			<case pos='2b' ex='مُعْتَرَض' />
+			<case pos='2d' ex='مُبْتَكَر' />
+			<case pos='3b' ex='مُزْدَوَج' />
+		</Pattern>
+		<Pattern id='91' vow='مُفتَعِل' >
+			<case pos='2a' ex='مُعْتَرِض' />
+		</Pattern>
+		<Pattern id='92' vow='مُفعالّ' >
+			<case pos='2a' ex='مُبْيَاضّ' />
+			<case pos='2b' ex='مُبْيَاضّ' />
+			<case pos='2d' ex='مُبْهَارّ' />
+			<case pos='3b' ex='مُدْهاسّ' />
+		</Pattern>
+		<Pattern id='93' vow='مِفعال' >
+			<case pos='2c' ex='مِقْدام' />
+			<case pos='2f' ex='مِفْتاح' />
+		</Pattern>
+		<Pattern id='94' vow='مَفعَل' >
+			<case pos='2d' ex='مَكْتَب' />
+			<case pos='3a' ex='مَخْرَج' />
+			<case pos='3b' ex='مَنْبَع' />
+		</Pattern>
+		<Pattern id='95' vow='مَفعِل' >
+			<case pos='2d' ex='مَنْزِل' />
+			<case pos='3a' ex='مَرْجِعٌ' />
+			<case pos='3b' ex='مَوْطِن' />
+		</Pattern>
+		<Pattern id='96' vow='مُفَعَّل' >
+			<case pos='2b' ex='مُدَرَّب' />
+			<case pos='2d' ex='مُمَجَّد' />
+			<case pos='3b' ex='مُعَبّأ' />
+		</Pattern>
+		<Pattern id='97' vow='مُفَعِّل' >
+			<case pos='2a' ex='مُدَرِّب' />
+			<case pos='2f' ex='مُحَرِّك' />
+		</Pattern>
+		<Pattern id='98' vow='مُفعَل' >
+			<case pos='2b' ex='مُكْرَم' />
+			<case pos='2d' ex='مُبْدَع' />
+			<case pos='3b' ex='مُؤْثَم' />
+		</Pattern>
+		<Pattern id='99' vow='مُفعَلّ' >
+			<case pos='2a' ex='مُخْضَرّ' />
+			<case pos='2b' ex='مُخْضَرّ' />
+			<case pos='2d' ex='مُدْهَمّ' />
+			<case pos='3b' ex='مُحْمَرّ' />
+		</Pattern>
+		<Pattern id='100' vow='مُفعُل' >
+			<case pos='2f' ex='مُدْهُن' />
+		</Pattern>
+		<Pattern id='101' vow='مُفعِل' >
+			<case pos='2a' ex='مُكْرِم' />
+		</Pattern>
+		<Pattern id='102' vow='مِفعَل' >
+			<case pos='2f' ex='مِصْعَد' />
+		</Pattern>
+		<Pattern id='103' vow='مَفعَلَة' >
+			<case pos='2d' ex='مَطْبَعَة' />
+			<case pos='3a' ex='مَمْلَكَة' />
+			<case pos='3b' ex='مَفْخَرَة' />
+		</Pattern>
+		<Pattern id='104' vow='مَفعُلَة' >
+			<case pos='3b' ex='مَأْدُبَة' />
+		</Pattern>
+		<Pattern id='105' vow='مَفعِلَة' >
+			<case pos='3a' ex='مَغْفِرَة' />
+			<case pos='3b' ex='مَعْرِفَة' />
+		</Pattern>
+		<Pattern id='106' vow='مُفَعِّلَة' >
+			<case pos='2f' ex='مُسَجِّلَة' />
+		</Pattern>
+		<Pattern id='107' vow='مِفعَلَة' >
+			<case pos='2f' ex='مِسْطَرَة' />
+		</Pattern>
+		<Pattern id='108' vow='مُفعَوعَل' >
+			<case pos='2b' ex='مُعْشَوْشَب' />
+			<case pos='2d' ex='مُعْصَوْصَب' />
+			<case pos='3b' ex='مُحْزَوْزَأ' />
+		</Pattern>
+		<Pattern id='109' vow='مُفعَوعِل' >
+			<case pos='2a' ex='مُعْشَوْشِب' />
+		</Pattern>
+		<Pattern id='110' vow='مَفعول' >
+			<case pos='2b' ex='مَكْتوب' />
+			<case pos='3a' ex='مَعْقول' />
+		</Pattern>
+		<Pattern id='111' vow='مُفعَوَّل' >
+			<case pos='2b' ex='مُجْلَوَّذ' />
+			<case pos='2d' ex='مُجْرَوَّش' />
+			<case pos='3b' ex='مُجْلَوَّذ' />
+		</Pattern>
+		<Pattern id='112' vow='مُفعَوِّل' >
+			<case pos='2a' ex='مُجْلَوِّذ' />
+		</Pattern>
+		<Pattern id='113' vow='مِفعيل' >
+			<case pos='2c' ex='مِعْطِير' />
+		</Pattern>
+		<Pattern id='114' vow='مُنفَعَل' >
+			<case pos='2b' ex='مُنْطَلَق' />
+			<case pos='2d' ex='مُنْبَعَث' />
+			<case pos='3b' ex='مُنْطَفَأ' />
+		</Pattern>
+		<Pattern id='115' vow='مُنفَعِل' >
+			<case pos='2a' ex='مُنْطَلِق' />
+		</Pattern>
+		<Pattern id='116' vow='أُفاعِل' >
+			<case pos='1a' ex='أحامر' />
+			<case pos='1b' ex='أحامر' />
+		</Pattern>
+		<Pattern id='117' vow='إِفالَة' >
+			<case pos='3a' ex='إقامة' />
+		</Pattern>
+		<Pattern id='118' vow='أَفعالّ' >
+			<case pos='1a' ex='أسحار' />
+		</Pattern>
+		<Pattern id='119' vow='افعالّ' >
+			<case pos='1a ' ex='اسحار' />
+		</Pattern>
+		<Pattern id='120' vow='أَفعِل' >
+			<case pos='1a ' ex='أصبع ق' />
+		</Pattern>
+		<Pattern id='121' vow='أُفعُل' >
+			<case pos='1a ' ex='أبلم ق' />
+		</Pattern>
+		<Pattern id='122' vow='أُفعُلّ' >
+			<case pos='1a ' ex='أترج' />
+		</Pattern>
+		<Pattern id='123' vow='إِفعَل' >
+			<case pos='1a ' ex='اصبع' />
+		</Pattern>
+		<Pattern id='124' vow='إِفعَلّ' >
+			<case pos='1a ' ex='إرزبة' />
+			<case pos='1b' ex='إزفلة' />
+		</Pattern>
+		<Pattern id='125' vow='إِفعِل' >
+			<case pos='1a ' ex='إصبع' />
+		</Pattern>
+		<Pattern id='126' vow='أَفعَلى' >
+			<case pos='1a ' ex='أجفلى' />
+		</Pattern>
+		<Pattern id='127' vow='أُفعَلى' >
+			<case pos='1a ' ex='أربعى' />
+		</Pattern>
+		<Pattern id='128' vow='إِفعَلى' >
+			<case pos='1a ' ex='إيجلى' />
+		</Pattern>
+		<Pattern id='129' vow='إِفعِلّى' >
+			<case pos='1a ' ex='إيحلى' />
+		</Pattern>
+		<Pattern id='130' vow='أَفعَلاء' >
+			<case pos='1a ' ex='أربعاء' />
+		</Pattern>
+		<Pattern id='131' vow='أَفعُلاء' >
+			<case pos='1a ' ex='أربعاء' />
+		</Pattern>
+		<Pattern id='132' vow='أَفعِلاء' >
+			<case pos='1a ' ex='أربعاء' />
+		</Pattern>
+		<Pattern id='133' vow='أَفعَلان' >
+			<case pos='1b' ex='أنبخان' />
+		</Pattern>
+		<Pattern id='134' vow='أُفعُلان' >
+			<case pos='1a ' ex='أرجوان' />
+			<case pos='1b' ex='ألعبان' />
+		</Pattern>
+		<Pattern id='135' vow='إِفعِلان' >
+			<case pos='1a ' ex='إسمحان' />
+			<case pos='1b' ex='إضحيانة' />
+		</Pattern>
+		<Pattern id='136' vow='أُفعُلاوى' >
+			<case pos='1a ' ex='أربعاوى' />
+		</Pattern>
+		<Pattern id='137' vow='أَفعِلاوى' >
+			<case pos='1a ' ex='أربعاوى' />
+		</Pattern>
+		<Pattern id='138' vow='أُفعول' >
+			<case pos='1a ' ex='أسلوب' />
+			<case pos='1b' ex='أسكوب' />
+		</Pattern>
+		<Pattern id='139' vow='إِفعَول' >
+			<case pos='1a ' ex='إدرون' />
+			<case pos='1b' ex='إزمول' />
+		</Pattern>
+		<Pattern id='140' vow='إِفعيلى' >
+			<case pos='1a ' ex='إهجيرى' />
+		</Pattern>
+		<Pattern id='141' vow='إِفعيلاء' >
+			<case pos='1a ' ex='إهجيراء' />
+		</Pattern>
+		<Pattern id='142' vow='أَفَنعَل' >
+			<case pos='1a ' ex='ألنجج' />
+			<case pos='1b' ex='ألندد' />
+		</Pattern>
+		<Pattern id='143' vow='إِنفَعل' >
+			<case pos='1b' ex='إنخلق' />
+		</Pattern>
+		<Pattern id='144' vow='تُفاعِل' >
+			<case pos='1a ' ex='تماضر' />
+		</Pattern>
+		<Pattern id='145' vow='تِفعالة' >
+			<case pos='1b' ex='تلعابة' />
+		</Pattern>
+		<Pattern id='146' vow='تِفِعّال' >
+			<case pos='2c' ex='تحمال' />
+		</Pattern>
+		<Pattern id='147' vow='تَفعُل' >
+			<case pos='1a ' ex='تنضب' />
+		</Pattern>
+		<Pattern id='148' vow='تُفعَل' >
+			<case pos='1a ' ex='تدرأ' />
+			<case pos='1b' ex='ترتب' />
+		</Pattern>
+		<Pattern id='149' vow='تُفعُل' >
+			<case pos='1a ' ex='تتفل' />
+			<case pos='1b' ex='تحلبة' />
+		</Pattern>
+		<Pattern id='150' vow='تُفُعُّل' >
+			<case pos='1a ' ex='تبشر' />
+		</Pattern>
+		<Pattern id='151' vow='تِفعِل' >
+			<case pos='1a ' ex='تحلىء' />
+			<case pos='1b' ex='تحلبة' />
+		</Pattern>
+		<Pattern id='152' vow='تِفِعِّل' >
+			<case pos='1a ' ex='تهبط' />
+		</Pattern>
+		<Pattern id='153' vow='تَفعُلاء' >
+			<case pos='1a ' ex='تركضاء' />
+		</Pattern>
+		<Pattern id='154' vow='تَفعِلَّة' >
+			<case pos='1b' ex='ترعية' />
+		</Pattern>
+		<Pattern id='155' vow='تِفعَلَة' >
+			<case pos='1b' ex='تحلبة' />
+		</Pattern>
+		<Pattern id='156' vow='تَفعَلوت' >
+			<case pos='1a ' ex='ترنموت' />
+		</Pattern>
+		<Pattern id='157' vow='تَفعول' >
+			<case pos='1a ' ex='تعضوض' />
+		</Pattern>
+		<Pattern id='158' vow='تُفعول' >
+			<case pos='1a ' ex='تؤثور' />
+		</Pattern>
+		<Pattern id='159' vow='فاعال' >
+			<case pos='1a ' ex='ساباط' />
+		</Pattern>
+		<Pattern id='160' vow='فَأعَل' >
+			<case pos='1a ' ex='شأمل' />
+		</Pattern>
+		<Pattern id='161' vow='فاعَل' >
+			<case pos='1a ' ex='خاتم' />
+		</Pattern>
+		<Pattern id='162' vow='فاعِلاء' >
+			<case pos='1a ' ex='قاصعاء' />
+		</Pattern>
+		<Pattern id='163' vow='فَأعَلَة' >
+			<case pos='3a' ex='طأمنة' />
+		</Pattern>
+		<Pattern id='164' vow='فاعَولى' >
+			<case pos='1a ' ex='بادولى' />
+		</Pattern>
+		<Pattern id='165' vow='فاعولاء' >
+			<case pos='1a ' ex='عاشوراء' />
+		</Pattern>
+		<Pattern id='166' vow='فُعائِلُ' >
+			<case pos='1a ' ex='جرائض' />
+			<case pos='1b' ex='حطائط' />
+		</Pattern>
+		<Pattern id='167' vow='فُعاعيلُ' >
+			<case pos='1b' ex='سخاخين' />
+		</Pattern>
+		<Pattern id='168' vow='فَعأَل' >
+			<case pos='1a ' ex='شمأل' />
+		</Pattern>
+		<Pattern id='169' vow='فَعالِ' >
+			<case pos='1a ' ex='نزال' />
+		</Pattern>
+		<Pattern id='170' vow='فُعّال' >
+			<case pos='1a ' ex='خطاف' />
+			<case pos='1b' ex='حسان' />
+			<case pos='1e' ex='كبار' />
+		</Pattern>
+		<Pattern id='171' vow='فَعالى' >
+			<case pos='1a ' ex='خزازى' />
+		</Pattern>
+		<Pattern id='172' vow='فُعالى' >
+			<case pos='1a ' ex='حبارى' />
+		</Pattern>
+		<Pattern id='173' vow='فُعّالى' >
+			<case pos='1a ' ex='شقارى' />
+		</Pattern>
+		<Pattern id='174' vow='فَعالاء' >
+			<case pos='1a ' ex='براكاء' />
+			<case pos='1b' ex='عياياء' />
+		</Pattern>
+		<Pattern id='175' vow='فِعالاء' >
+			<case pos='1a ' ex='قصاصاء' />
+		</Pattern>
+		<Pattern id='176' vow='فَعالان' >
+			<case pos='1a ' ex='حماطان ق' />
+		</Pattern>
+		<Pattern id='177' vow='فَعالَّة' >
+			<case pos='1b' ex='حمارة' />
+		</Pattern>
+		<Pattern id='178' vow='فُعالِيَة' >
+			<case pos='1a ' ex='صراحية' />
+			<case pos='1b' ex='قراسية' />
+		</Pattern>
+		<Pattern id='180' vow='فُعامِلُ' >
+			<case pos='1b' ex='دلامص' />
+		</Pattern>
+		<Pattern id='181' vow='فَعفَعيل' >
+			<case pos='1a ' ex='مرمريس' />
+		</Pattern>
+		<Pattern id='182' vow='فَعَلّ' >
+			<case pos='1a ' ex='معد' />
+			<case pos='1b' ex='هبي' />
+		</Pattern>
+		<Pattern id='183' vow='فَعُل' >
+			<case pos='1a ' ex='رجل' />
+			<case pos='1b' ex='حدث' />
+		</Pattern>
+		<Pattern id='184' vow='فُعَّل' >
+			<case pos='1a ' ex='سلم' />
+			<case pos='1e' ex='قلب' />
+		</Pattern>
+		<Pattern id='185' vow='فُعَّلّ' >
+			<case pos='1b' ex='شمخر' />
+		</Pattern>
+		<Pattern id='186' vow='فُعُّلُ' >
+			<case pos='1a ' ex='تبُّع' />
+		</Pattern>
+		<Pattern id='187' vow='فُعُلّ' >
+			<case pos='1a ' ex='حبن' />
+			<case pos='1b' ex='قمد' />
+		</Pattern>
+		<Pattern id='188' vow='فُعِل' >
+			<case pos='1a ' ex='دئل' />
+		</Pattern>
+		<Pattern id='189' vow='فِعَلّ' >
+			<case pos='1a ' ex='مجن' />
+			<case pos='1b' ex='خدب' />
+		</Pattern>
+		<Pattern id='190' vow='فِعَّل' >
+			<case pos='1a ' ex='قنب' />
+			<case pos='1b' ex='دنم' />
+		</Pattern>
+		<Pattern id='191' vow='فِعَّلّ' >
+			<case pos='1b' ex='علكد' />
+		</Pattern>
+		<Pattern id='192' vow='فِعُل' >
+			<case pos='غير مستعمل' />
+		</Pattern>
+		<Pattern id='193' vow='فِعِل' >
+			<case pos='1a ' ex='إبل' />
+			<case pos='1b' ex='إبد' />
+		</Pattern>
+		<Pattern id='194' vow='فِعِلّ' >
+			<case pos='1a ' ex='فلز' />
+			<case pos='1b' ex='طمر' />
+		</Pattern>
+		<Pattern id='195' vow='فِعِّل' >
+			<case pos='1a ' ex='حمص' />
+			<case pos='1b' ex='حلزة' />
+		</Pattern>
+		<Pattern id='196' vow='فَعلَأ' >
+			<case pos='1a ' ex='ضهيأ' />
+			<case pos='1b' ex='ضهيأ' />
+		</Pattern>
+		<Pattern id='197' vow='فَعَلى' >
+			<case pos='1a ' ex='دقرى' />
+			<case pos='1b' ex='بشكى' />
+		</Pattern>
+		<Pattern id='198' vow='فُعَلى' >
+			<case pos='1a ' ex='أربى ق' />
+		</Pattern>
+		<Pattern id='199' vow='فُعَلّى' >
+			<case pos='1a ' ex='عرضى' />
+		</Pattern>
+		<Pattern id='200' vow='فُعَّلى' >
+			<case pos='1a ' ex='سمهى' />
+		</Pattern>
+		<Pattern id='201' vow='فُعُلّى' >
+			<case pos='1a ' ex='حذرى' />
+		</Pattern>
+		<Pattern id='202' vow='فِعَلّى' >
+			<case pos='1a ' ex='دفقى' />
+		</Pattern>
+		<Pattern id='203' vow='فِعِلّى' >
+			<case pos='1a ' ex='زمكى' />
+			<case pos='1b' ex='كمرى' />
+		</Pattern>
+		<Pattern id='204' vow='فَعلاء' >
+			<case pos='1a ' ex='طرفاء' />
+			<case pos='1b' ex='صفراء' />
+		</Pattern>
+		<Pattern id='205' vow='فَعَلاء' >
+			<case pos='1a ' ex='جنفاء' />
+		</Pattern>
+		<Pattern id='206' vow='فُعلاء' >
+			<case pos='1a ' ex='قوباء' />
+		</Pattern>
+		<Pattern id='207' vow='فُعَلاء' >
+			<case pos='1a ' ex='رحضاء' />
+			<case pos='1b' ex='نفساء' />
+		</Pattern>
+		<Pattern id='208' vow='فِعلاء' >
+			<case pos='1a ' ex='علباء' />
+		</Pattern>
+		<Pattern id='209' vow='فِعَلاء' >
+			<case pos='1a ' ex='سيراء' />
+		</Pattern>
+		<Pattern id='210' vow='فُعلال' >
+			<case pos='1a ' ex='فسطاط' />
+			<case pos='1b' ex='هلباج' />
+		</Pattern>
+		<Pattern id='211' vow='فِعلال' >
+			<case pos='1a ' ex='جلباب' />
+			<case pos='1b' ex='شملال' />
+		</Pattern>
+		<Pattern id='212' vow='فَعُلان' >
+			<case pos='1a ' ex='سبحان' />
+		</Pattern>
+		<Pattern id='213' vow='فَعِلان' >
+			<case pos='1a ' ex='ظربان' />
+		</Pattern>
+		<Pattern id='214' vow='فَعِلّان' >
+			<case pos='1a ' ex='تئفان' />
+		</Pattern>
+		<Pattern id='215' vow='فُعَلّان' >
+			<case pos='1a ' ex='حومان' />
+			<case pos='1b' ex='جلبان' />
+		</Pattern>
+		<Pattern id='216' vow='فُعُلان' >
+			<case pos='1a ' ex='سلطان' />
+		</Pattern>
+		<Pattern id='217' vow='فُعُّلان' >
+			<case pos='1a ' ex='قمحان' />
+			<case pos='1b' ex='قمدان' />
+		</Pattern>
+		<Pattern id='218' vow='فِعِلّان' >
+			<case pos='1a ' ex='فركان' />
+			<case pos='1b' ex='كلمان' />
+		</Pattern>
+		<Pattern id='219' vow='فُعَلايا' >
+			<case pos='1a ' ex='برحايا' />
+		</Pattern>
+		<Pattern id='220' vow='فَعُلَّة' >
+			<case pos='1a ' ex='تلنة' />
+		</Pattern>
+		<Pattern id='221' vow='فَعِلَّة' >
+			<case pos='1a ' ex='تئفة' />
+		</Pattern>
+		<Pattern id='222' vow='فُعَلَّة' >
+			<case pos='1a ' ex='درجة' />
+		</Pattern>
+		<Pattern id='223' vow='فُعُلَّة' >
+			<case pos='1e' ex='كذبة' />
+		</Pattern>
+		<Pattern id='224' vow='فَعلَتَة' >
+			<case pos='1a' ex='سنبتة' />
+			<case pos='3a' ex='عفرتة' />
+		</Pattern>
+		<Pattern id='225' vow='فِعِلعال' >
+			<case pos=' 1a' ex='حلبلاب' />
+			<case pos='1b' ex='سرطراط' />
+		</Pattern>
+		<Pattern id='226' vow='فَعَلعَل' >
+			<case pos='1a' ex='حبربر' />
+		</Pattern>
+		<Pattern id='227' vow='فُعَلعَل' >
+			<case pos='1a' ex='ذرحرح' />
+		</Pattern>
+		<Pattern id='228' vow='فُعُلعُل' >
+			<case pos='1b' ex='كذبذب' />
+		</Pattern>
+		<Pattern id='229' vow='فُعُّلعُل' >
+			<case pos='1b' ex='كذبذب' />
+		</Pattern>
+		<Pattern id='230' vow='فِعِلعِل' >
+			<case pos='1a' ex='إزنزل' />
+		</Pattern>
+		<Pattern id='231' vow='فُعُلعُلان' >
+			<case pos='1b' ex='كذبذبان' />
+		</Pattern>
+		<Pattern id='232' vow='فَعلَل' >
+			<case pos='1a' ex='قردد' />
+		</Pattern>
+		<Pattern id='233' vow='فُعلَل' >
+			<case pos='1a' ex='عندد' />
+			<case pos='1b' ex='قعدد' />
+		</Pattern>
+		<Pattern id='234' vow='فُعلُل' >
+			<case pos='1a' ex='شربب' />
+			<case pos='1b' ex='قعدد' />
+		</Pattern>
+		<Pattern id='235' vow='فِعلِل' >
+			<case pos='1b' ex='رمدد' />
+		</Pattern>
+		<Pattern id='236' vow='فَعَلِلّاء' >
+			<case pos='1a' ex='زكرياء' />
+		</Pattern>
+		<Pattern id='237' vow='فَعلَلايا' >
+			<case pos='1a' ex='بردرايا' />
+		</Pattern>
+		<Pattern id='238' vow='فَعلَم' >
+			<case pos='1b' ex='شدقم' />
+		</Pattern>
+		<Pattern id='239' vow='فُعلَم' >
+			<case pos='1a' ex='زرقم' />
+			<case pos='1b' ex='ستهم' />
+		</Pattern>
+		<Pattern id='240' vow='فِعلِم' >
+			<case pos='1b' ex='دقعم' />
+		</Pattern>
+		<Pattern id='241' vow='فَعلَن' >
+			<case pos='1b' ex='ضيفن' />
+		</Pattern>
+		<Pattern id='242' vow='فِعلِن' >
+			<case pos='1a' ex='فرسن' />
+		</Pattern>
+		<Pattern id='243' vow='فِعَلن' >
+			<case pos='1a' ex='عرضنة' />
+			<case pos='1b' ex='خلفنة' />
+		</Pattern>
+		<Pattern id='244' vow='فَعَلنى' >
+			<case pos='1b' ex='عفرنى' />
+		</Pattern>
+		<Pattern id='245' vow='فِعَلنى' >
+			<case pos='1a' ex='عرضنى' />
+		</Pattern>
+		<Pattern id='246' vow='فُعَلنِيَة' >
+			<case pos='1a' ex='بلهنية' />
+		</Pattern>
+		<Pattern id='247' vow='فَعلَوى' >
+			<case pos='1a' ex='هرنوى' />
+		</Pattern>
+		<Pattern id='248' vow='فُعلُوان' >
+			<case pos='1a' ex='عنفوان' />
+		</Pattern>
+		<Pattern id='249' vow='فَعلوت' >
+			<case pos='1a' ex='حيّوت' />
+			<case pos='1b' ex='خلبوت' />
+		</Pattern>
+		<Pattern id='250' vow='فَعلُوَة' >
+			<case pos='1a' ex='ترقوة' />
+		</Pattern>
+		<Pattern id='251' vow='فَعَلُوَّة' >
+			<case pos='1a' ex='جبروة' />
+		</Pattern>
+		<Pattern id='252' vow='فِعلُوَة' >
+			<case pos='1a' ex='جندوة' />
+		</Pattern>
+		<Pattern id='253' vow='فَعَلوتى' >
+			<case pos='1a' ex='رهبوتى' />
+		</Pattern>
+		<Pattern id='254' vow='فَعَلول' >
+			<case pos='1a' ex='بعكوك' />
+			<case pos='1b' ex='حلكوك' />
+		</Pattern>
+		<Pattern id='255' vow='فُعلول' >
+			<case pos='1a' ex='هذلول' />
+			<case pos='1b' ex='بهلول' />
+		</Pattern>
+		<Pattern id='256' vow='فَعلولى' >
+			<case pos='1b' ex='فوضوضى' />
+		</Pattern>
+		<Pattern id='257' vow='فَعلَيّا' >
+			<case pos='1a' ex='مرحيا' />
+		</Pattern>
+		<Pattern id='258' vow='فِعلِياء' >
+			<case pos='1a' ex='كبرياء' />
+			<case pos='1b' ex='حربياء' />
+		</Pattern>
+		<Pattern id='259' vow='فِعلِيان' >
+			<case pos='1a' ex='بليان' />
+			<case pos='خريان' ex='خريان' />
+		</Pattern>
+		<Pattern id='260' vow='فِعليت' >
+			<case pos='1b' ex='عفريت' />
+		</Pattern>
+		<Pattern id='261' vow='فِعلِيَة' >
+			<case pos='1a' ex='هبرية' />
+			<case pos='1b' ex='زبنية' />
+		</Pattern>
+		<Pattern id='262' vow='فَعَليل' >
+			<case pos='1a' ex='حمصيص' />
+			<case pos='1b' ex='صمكيك' />
+		</Pattern>
+		<Pattern id='263' vow='فُعُليل' >
+			<case pos='1a' ex='حبليل' />
+		</Pattern>
+		<Pattern id='264' vow='فِعليل' >
+			<case pos='1a' ex='حلتيت' />
+			<case pos='1b' ex='صنديد' />
+			<case pos='1e' ex='سرطيط' />
+		</Pattern>
+		<Pattern id='265' vow='فِعلين' >
+			<case pos='1a' ex='غسلين' />
+		</Pattern>
+		<Pattern id='266' vow='فِعنال' >
+			<case pos='1b' ex='فرناس' />
+		</Pattern>
+		<Pattern id='267' vow='فَعنَعَل' >
+			<case pos='1a' ex='عقنقل' />
+		</Pattern>
+		<Pattern id='268' vow='فُعنُل' >
+			<case pos='1b' ex='عرند' />
+		</Pattern>
+		<Pattern id='269' vow='فَعَنلى' >
+			<case pos='1a' ex='قرنبى' />
+			<case pos='1b' ex='سبندى' />
+		</Pattern>
+		<Pattern id='270' vow='فُعنُلى' >
+			<case pos='1a' ex='جلندى' />
+		</Pattern>
+		<Pattern id='271' vow='فِعِنلال' >
+			<case pos='1a' ex='فرنداد' />
+		</Pattern>
+		<Pattern id='272' vow='فَعَنلَة' >
+			<case pos='1a' ex='جرنبة' />
+		</Pattern>
+		<Pattern id='273' vow='فَعَنلَل' >
+			<case pos='1b' ex='عفنجج' />
+		</Pattern>
+		<Pattern id='274' vow='فَعَنلُوَة' >
+			<case pos='1a' ex='قلنسوة' />
+		</Pattern>
+		<Pattern id='275' vow='فُعَنلِيَة' >
+			<case pos='1a' ex='قلنسية' />
+		</Pattern>
+		<Pattern id='276' vow='فُعوال' >
+			<case pos='1a' ex='عصواد' />
+		</Pattern>
+		<Pattern id='277' vow='فِعوال' >
+			<case pos='1a' ex='عصواد' />
+			<case pos='1b' ex='جلواخ' />
+		</Pattern>
+		<Pattern id='278' vow='فَعَوعَل' >
+			<case pos='1b' ex='غدودن' />
+		</Pattern>
+		<Pattern id='279' vow='فَعوَل' >
+			<case pos='1a' ex='جدول' />
+			<case pos='1b' ex='جهور' />
+		</Pattern>
+		<Pattern id='280' vow='فَعَوَّل' >
+			<case pos='1b' ex='كروس' />
+		</Pattern>
+		<Pattern id='281' vow='فَعُّول' >
+			<case pos='1a' ex='كلوب' />
+			<case pos='1b' ex='قدوس' />
+		</Pattern>
+		<Pattern id='282' vow='فُعُّول' >
+			<case pos='1b' ex='قدوس' />
+			<case pos='1e' ex='سبوح' />
+		</Pattern>
+		<Pattern id='283' vow='فِعوَل' >
+			<case pos='1a' ex='خروع' />
+		</Pattern>
+		<Pattern id='284' vow='فِعوَلّ' >
+			<case pos='1a' ex='عسود' />
+			<case pos='1b' ex='علود' />
+		</Pattern>
+		<Pattern id='285' vow='فِعَّول' >
+			<case pos='1a' ex='سنور' />
+			<case pos='1b' ex='سروط' />
+		</Pattern>
+		<Pattern id='286' vow='فُعولى' >
+			<case pos='1a' ex='عشورى' />
+		</Pattern>
+		<Pattern id='287' vow='فَعولاء' >
+			<case pos='1a' ex='بروكاء' />
+		</Pattern>
+		<Pattern id='288' vow='فُعولاء' >
+			<case pos='1a' ex='عشوراء' />
+		</Pattern>
+		<Pattern id='289' vow='فَعولَة' >
+			<case pos='1e' ex='فروقة' />
+		</Pattern>
+		<Pattern id='290' vow='فَعَولَل' >
+			<case pos='1a' ex='حبونن' />
+		</Pattern>
+		<Pattern id='291' vow='فِعَولَل' >
+			<case pos='1a' ex='حبونن' />
+		</Pattern>
+		<Pattern id='292' vow='فُعَيفيل' >
+			<case pos='1d' ex='مريريس' />
+		</Pattern>
+		<Pattern id='293' vow='فِعيال' >
+			<case pos='1a' ex='جريال' />
+		</Pattern>
+		<Pattern id='294' vow='فَعَيعَل' >
+			<case pos='1b' ex='خفيفد' />
+		</Pattern>
+		<Pattern id='295' vow='فُعَيعِل' >
+			<case pos='1d' ex='مريرس' />
+		</Pattern>
+		<Pattern id='296' vow='فَعَّيَل' >
+			<case pos='1b' ex='هبيخ' />
+		</Pattern>
+		<Pattern id='297' vow='فَعِّيل' >
+			<case pos='1b' ex='سكير' />
+			<case pos='1e' ex='بصيم' />
+		</Pattern>
+		<Pattern id='298' vow='فُعيَل' >
+			<case pos='1a' ex='عليب' />
+		</Pattern>
+		<Pattern id='299' vow='فُعَيل' >
+			<case pos='1d' ex='كليب' />
+		</Pattern>
+		<Pattern id='300' vow='فُعَّيل' >
+			<case pos='1a' ex='عليق' />
+			<case pos='1b' ex='سكيت' />
+		</Pattern>
+		<Pattern id='301' vow='فُعّيل' >
+			<case pos='1b' ex='دري' />
+		</Pattern>
+		<Pattern id='302' vow='فِعيَل' >
+			<case pos='1a' ex='عثير' />
+			<case pos='1b' ex='طريم' />
+		</Pattern>
+		<Pattern id='303' vow='فَعَيلَأ' >
+			<case pos='1b' ex='حفيسأ' />
+		</Pattern>
+		<Pattern id='304' vow='فَعَيَّلى' >
+			<case pos='1a' ex='هبيخى' />
+		</Pattern>
+		<Pattern id='305' vow='فُعَيلى' >
+			<case pos='1a' ex='قصيرى' />
+		</Pattern>
+		<Pattern id='306' vow='فُعَّيلى' >
+			<case pos='1a' ex='خليطى' />
+		</Pattern>
+		<Pattern id='307' vow='فِعّيلى' >
+			<case pos='1a' ex='هجيرى' />
+		</Pattern>
+		<Pattern id='308' vow='فَعيلاء' >
+			<case pos='1a' ex='عجيساء' />
+		</Pattern>
+		<Pattern id='309' vow='فُعَّيلاء' >
+			<case pos='1a' ex='دخيلاء' />
+		</Pattern>
+		<Pattern id='310' vow='فَعَيلَل' >
+			<case pos='1a' ex='حفيلل' />
+			<case pos='1b' ex='حفيدد' />
+		</Pattern>
+		<Pattern id='311' vow='فُعَيلِياء' >
+			<case pos='1a' ex='مزيقياء' />
+		</Pattern>
+		<Pattern id='312' vow='فِعيَول' >
+			<case pos='1a' ex='ذهويط' />
+			<case pos='1b' ex='عذويط' />
+		</Pattern>
+		<Pattern id='313' vow='فِنعال' >
+			<case pos='1b' ex='قنعاس' />
+		</Pattern>
+		<Pattern id='314' vow='فَنعَل' >
+			<case pos='1b' ex='عنبس' />
+		</Pattern>
+		<Pattern id='315' vow='فُنعَل' >
+			<case pos='1a' ex='قنبر' />
+		</Pattern>
+		<Pattern id='316' vow='فِنعَل' >
+			<case pos='1a' ex='جندب' />
+		</Pattern>
+		<Pattern id='317' vow='فُنعَلاء' >
+			<case pos='1a' ex='خنفساء' />
+		</Pattern>
+		<Pattern id='318' vow='فُنعُلاء' >
+			<case pos='1a' ex='خنفساء' />
+		</Pattern>
+		<Pattern id='319' vow='فِنعَلو' >
+			<case pos='1b' ex='حنطأو' />
+		</Pattern>
+		<Pattern id='320' vow='فَنعَليل' >
+			<case pos='1b' ex='خنفقيق' />
+		</Pattern>
+		<Pattern id='321' vow='فُواعِلُ' >
+			<case pos='1a' ex='صواعق' />
+			<case pos='1b' ex='دواسر' />
+		</Pattern>
+		<Pattern id='322' vow='فَوعال' >
+			<case pos='1a' ex='توراب' />
+		</Pattern>
+		<Pattern id='323' vow='فوعال' >
+			<case pos='1a' ex='طومار' />
+		</Pattern>
+		<Pattern id='324' vow='فَوعالى' >
+			<case pos='1a' ex='حولايا' />
+		</Pattern>
+		<Pattern id='325' vow='فَوعَل' >
+			<case pos='1a' ex='كوكب' />
+			<case pos='1b' ex='هوزب' />
+		</Pattern>
+		<Pattern id='326' vow='فَوعَلى' >
+			<case pos='1a' ex='خوزلى' />
+		</Pattern>
+		<Pattern id='327' vow='فَوعَلاء' >
+			<case pos='1a' ex='حوصلاء' />
+		</Pattern>
+		<Pattern id='328' vow='فَوعَلان' >
+			<case pos='1a' ex='حوتنان' />
+		</Pattern>
+		<Pattern id='329' vow='فَوَعلَل' >
+			<case pos='1b' ex='كوألل' />
+		</Pattern>
+		<Pattern id='330' vow='فَيعال' >
+			<case pos='1a' ex='شيطان' />
+			<case pos='1b' ex='بيطار' />
+		</Pattern>
+		<Pattern id='331' vow='فيعال' >
+			<case pos='1a' ex='ديباج' />
+		</Pattern>
+		<Pattern id='332' vow='فَيعَل' >
+			<case pos='1a' ex='زينب' />
+			<case pos='1b' ex='صيرف' />
+		</Pattern>
+		<Pattern id='333' vow='فَيعِل' >
+			<case pos='1a' ex='سيد' />
+			<case pos='1b' ex='جيد' />
+		</Pattern>
+		<Pattern id='334' vow='فِيَعل' >
+			<case pos='1b' ex='صيهم' />
+		</Pattern>
+		<Pattern id='335' vow='فَيعَلى' >
+			<case pos='1a' ex='خيزلى' />
+		</Pattern>
+		<Pattern id='336' vow='فَيعَلانُ' >
+			<case pos='1a' ex='قيقبان' />
+			<case pos='1b' ex='هيبان' />
+		</Pattern>
+		<Pattern id='337' vow='فَيعُلانُ' >
+			<case pos='1a' ex='ضيمران' />
+			<case pos='1b' ex='كيذبان' />
+		</Pattern>
+		<Pattern id='338' vow='فَيعول' >
+			<case pos='1a' ex='خيشوم' />
+			<case pos='1b' ex='قيوم' />
+		</Pattern>
+		<Pattern id='339' vow='مِفعالة' >
+			<case pos='1e' ex='مجذامة' />
+		</Pattern>
+		<Pattern id='340' vow='مَفعَلّ' >
+			<case pos='1a' ex='مكور' />
+		</Pattern>
+		<Pattern id='341' vow='مَفعُل' >
+			<case pos='1a' ex='مقبرة' />
+		</Pattern>
+		<Pattern id='342' vow='مِفعِل' >
+			<case pos='1a' ex='منخر' />
+		</Pattern>
+		<Pattern id='343' vow='مِفعِلّ' >
+			<case pos='1a' ex='مرعز' />
+		</Pattern>
+		<Pattern id='344' vow='مَفعَلَّى' >
+			<case pos='1b' ex='مكورى' />
+		</Pattern>
+		<Pattern id='345' vow='مَفعِلَّى' >
+			<case pos='1b' ex='مرعزى' />
+		</Pattern>
+		<Pattern id='346' vow='مُفعِلَّى' >
+			<case pos='1b' ex='مكورى' />
+		</Pattern>
+		<Pattern id='347' vow='مِفعِلّى' >
+			<case pos='1a' ex='مرعزى' />
+		</Pattern>
+		<Pattern id='348' vow='مَفعِلاء' >
+			<case pos='1a' ex='مرعزاء' />
+		</Pattern>
+		<Pattern id='349' vow='مِفعِلّاء' >
+			<case pos='1a' ex='مرعزاء' />
+		</Pattern>
+		<Pattern id='350' vow='مَفعَلان' >
+			<case pos='1b' ex='ملأمان' />
+			<case pos='1e' ex='مكذبان' />
+		</Pattern>
+		<Pattern id='351' vow='مَفعَلانَة' >
+			<case pos='1e' ex='مكذبانة' />
+		</Pattern>
+		<Pattern id='352' vow='مُفعول' >
+			<case pos='1a' ex='معلوق ش' />
+		</Pattern>
+		<Pattern id='353' vow='مَفعولاء' >
+			<case pos='1a' ex='معيوراء' />
+			<case pos='1b' ex='مشيوخاء' />
+		</Pattern>
+		<Pattern id='354' vow='مَفول' >
+			<case pos='2b' ex='مقول' />
+		</Pattern>
+		<Pattern id='355' vow='مَفيل' >
+			<case pos='2b' ex='مبيع' />
+		</Pattern>
+		<Pattern id='356' vow='نَفعِل' >
+			<case pos='1a' ex='نرجس' />
+		</Pattern>
+		<Pattern id='357' vow='يَفاعِلاءُ' >
+			<case pos='1a' ex='ينابعاء' />
+		</Pattern>
+		<Pattern id='358' vow='يَفعَل' >
+			<case pos='1a' ex='يرمع' />
+		</Pattern>
+		<Pattern id='359' vow='يَفَعَّل' >
+			<case pos='1a' ex='يرنأ' />
+		</Pattern>
+		<Pattern id='360' vow='يُفَعَّل' >
+			<case pos='1a' ex='يرنأ' />
+		</Pattern>
+		<Pattern id='361' vow='يَفعَلّى' >
+			<case pos='1a' ex='يهيرى' />
+		</Pattern>
+		<Pattern id='362' vow='يَفعول' >
+			<case pos='1a' ex='يربوع' />
+			<case pos='1b' ex='يخضور' />
+		</Pattern>
+		<Pattern id='363' vow='يَفعيل' >
+			<case pos='1a' ex='يقطين' />
+		</Pattern>
+		<Pattern id='364' vow='يَفَنعَل' >
+			<case pos='1a' ex='يلنجج' />
+			<case pos='1b' ex='يلندد' />
+		</Pattern>
+	</Nominal_Patterns>
+	<Verbal_Patterns>
+		<Pattern id='365' vow='فَعَلَ' >
+			<case pos='4' ex='ضَرَبَ' />
+		</Pattern>
+		<Pattern id='366' vow='فَعِلَ' >
+			<case pos='4' ex='خَسِر' />
+		</Pattern>
+		<Pattern id='367' vow='فَعُلَ' >
+			<case pos='4' ex='كَرُم' />
+		</Pattern>
+		<Pattern id='368' vow='فَعَّلَ' >
+			<case pos='4' ex='صَدَّق' />
+		</Pattern>
+		<Pattern id='369' vow='فَاعَلَ' >
+			<case pos='4' ex='كَاتَب' />
+		</Pattern>
+		<Pattern id='370' vow='أفْعَلَ' >
+			<case pos='4' ex='أَكْرَم' />
+		</Pattern>
+		<Pattern id='371' vow='تَفَعَّلَ' >
+			<case pos='4' ex='تَقَطَّع' />
+		</Pattern>
+		<Pattern id='372' vow='تَفَاعَلَ' >
+			<case pos='4' ex='تَنَاقَل' />
+		</Pattern>
+		<Pattern id='373' vow='انْفَعَلَ' >
+			<case pos='4' ex='اِنْكَسَر' />
+		</Pattern>
+		<Pattern id='374' vow='اِفْتَعَلَ' >
+			<case pos='4' ex='اِخْتَبَر' />
+		</Pattern>
+		<Pattern id='375' vow='اِفْعَلَّ' >
+			<case pos='4' ex='اِحْمَرَّ' />
+		</Pattern>
+		<Pattern id='376' vow='اِسْتَفْعَلَ' >
+			<case pos='4' ex='اِسْتَسْلَم' />
+		</Pattern>
+		<Pattern id='377' vow='اِفْعَالَّ' >
+			<case pos='4' ex='اِحْمَارَّ' />
+		</Pattern>
+		<Pattern id='378' vow='اِفْعَوْعَلَ' >
+			<case pos='4' ex='اِخْشَوْشَن' />
+		</Pattern>
+		<Pattern id='379' vow='اِفْعَوَّلَ' >
+			<case pos='4' ex='اِقْلَوَّدَ' />
+		</Pattern>
+	</Verbal_Patterns>
+	<POSs>
+		<POS id='1a' type='جامد' desc='اسم ذات' />
+		<POS id='1b' type='جامد' desc='اسم معنى' />
+		<POS id='2a' type='مشتق' desc='اسم فاعل' />
+		<POS id='2b' type='مشتق' desc='اسم المفعول' />
+		<POS id='2c' type='مشتق' desc='مبالغة اسم فاعل' />
+		<POS id='2d' type='مشتق' desc='اسم الزمان-المكان' />
+		<POS id='2f' type='مشتق' desc='اسم الآلة' />
+		<POS id='2g' type='مشتق' desc='تفضيل' />
+		<POS id='2h' type='مشتق' desc='صفة مشبهة' />
+		<POS id='3a' type='مصدر' desc='مصدر أصلي' />
+		<POS id='3b' type='مصدر' desc='مصدر ميمي' />
+		<POS id='3c' type='مصدر' desc='مصدر المرة' />
+		<POS id='3d' type='مصدر' desc='مصدر الهيئة' />
+		<POS id='4' type='فعل' desc='فعل' />
+	</POSs>
+</Patterns_lexicon>

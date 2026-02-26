@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Developped  by Taoufik LOUKILI and Mohammed Karim BOUZOUBAA  -->
+<!-- Updated by Driss Namly and Mohammed Karim BOUZOUBAA  -->
+<!-- A XML-based file containing all Arabic proclitics. -->
+<proclitics>	
+	<proclitic>
+		<unvoweledform>و</unvoweledform>
+		<voweledform>وَ</voweledform>
+		<desc>حرف العطف</desc>
+		<sample>صلى الإمام والمأموم</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ف</unvoweledform>
+		<voweledform>فَ</voweledform>
+		<desc>حرف العطف أو الاستئناف</desc>
+		<sample>دخل المدرس فوقف التلاميذ</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>و</unvoweledform>
+		<voweledform>وَ</voweledform>
+		<desc>واو القسم حرف الجر</desc>
+		<sample>وَالسَّمَاء ذَاتِ الْبُرُوجِ</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ل</unvoweledform>
+		<voweledform>لَ</voweledform>
+		<desc>حرف الابتداء</desc>
+		<sample>وَإِنَّكَ لَعَلى خُلُقٍ عَظِيمٍ</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ل</unvoweledform>
+		<voweledform>لِ</voweledform>
+		<desc>حرف الجر</desc>
+		<sample>قُدِّمَتِ الْجَائِزَةُ لِلْفَائِزِ</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ل</unvoweledform>
+		<voweledform>لِ</voweledform>
+		<desc>حرف النصب</desc>
+		<sample>ما كان الله لِيظلمهم</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ل</unvoweledform>
+		<voweledform>لِ</voweledform>
+		<desc>لام الأمر</desc>
+		<sample>ثم ليقضوا</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ب</unvoweledform>
+		<voweledform>بِ</voweledform>
+		<desc>حرف الجر</desc>
+		<sample>قَطَعْتُ الْبَطِّيخَ بِالسِّكِينِ</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ك</unvoweledform>
+		<voweledform>كَ</voweledform>
+		<desc>حرف الجر</desc>
+		<sample>الفراشة كالزهرة</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>س</unvoweledform>
+		<voweledform>سَ</voweledform>
+		<desc>سين المستقبل القريب</desc>
+		<sample>سَيَقُولُ لَكَ الْمُخَلَّفُونَ</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>أ</unvoweledform>
+		<voweledform>أَ</voweledform>
+		<desc>همزة الاستفهام</desc>
+		<sample>أ زيد قائم؟</sample>
+	</proclitic>
+	<proclitic>
+		<unvoweledform>ال</unvoweledform>
+		<voweledform>الْ</voweledform>
+		<desc>التعريف</desc>
+		<sample>الْمُخَلَّفُونَ</sample>
+	</proclitic>
+</proclitics>

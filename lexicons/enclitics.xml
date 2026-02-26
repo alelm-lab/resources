@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Developped  by Taoufik LOUKILI and Mohammed Karim BOUZOUBAA  -->
+<!-- Updated by Driss Namly and Mohammed Karim BOUZOUBAA  -->
+<!-- A XML-based file containing all Arabic enclitics. -->
+<enclitics>
+	<enclitic>
+		<unvoweledform>ك</unvoweledform>
+		<voweledform>كَ</voweledform>
+		<person>2</person>
+		<number>s</number>
+		<gender>m</gender>
+		<desc>ضمير المخاطب</desc>
+		<sample>َيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلالِ وَالإكْرَامِ</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>ك</unvoweledform>
+		<voweledform>كِ</voweledform>
+		<person>2</person>
+		<number>s</number>
+		<gender>f</gender>
+		<desc>ضمير المخاطب</desc>
+		<sample>اسْلُكِي سُبُلَ ربّكِ ذُلُلاً</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>كما</unvoweledform>
+		<voweledform>كُمَا</voweledform>
+		<person>2</person>
+		<number>d</number>
+		<gender>n</gender>
+		<desc>ضمير المخاطبين</desc>
+		<sample>نَادَاهُمَا رَبُّهُمَا أَلَمْ أَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>كم</unvoweledform>
+		<voweledform>كُمْ</voweledform>
+		<person>2</person>
+		<number>p</number>
+		<gender>m</gender>
+		<desc>ضمير المخاطبين</desc>
+		<sample>ادعوا ربكم تضرعا وخفية</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>كمو</unvoweledform>
+		<voweledform>كُمُو</voweledform>
+		<person>2</person>
+		<number>p</number>
+		<gender>m</gender>
+		<desc>ضمير المخاطبين</desc>
+		<sample>أَنُلْزِمُكُمُوهَا</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>كن</unvoweledform>
+		<voweledform>كُنَّ</voweledform>
+		<person>2</person>
+		<number>p</number>
+		<gender>f</gender>
+		<desc>ضميرالمخاطبات</desc>
+		<sample> إن كنتن تردن الحياة الدنيا وزينتها فتعالين أمتعكن</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>ه</unvoweledform>
+		<voweledform>هُ</voweledform>
+		<person>3</person>
+		<number>s</number>
+		<gender>m</gender>
+		<desc>ضمير الغائب</desc>
+		<sample>فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>ها</unvoweledform>
+		<voweledform>هَا</voweledform>
+		<person>3</person>
+		<number>s</number>
+		<gender>f</gender>
+		<desc>ضمير الغائبة</desc>
+		<sample>والشمس وضحاها والقمر إذا تلاها</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>هما</unvoweledform>
+		<voweledform>هُما</voweledform>
+		<person>3</person>
+		<number>d</number>
+		<gender>n</gender>
+		<desc>ضمير الغائبين</desc>
+		<sample>نَادَاهُمَا رَبُّهُمَا أَلَمْ أَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>هم</unvoweledform>
+		<voweledform>هُمْ</voweledform>
+		<person>3</person>
+		<number>p</number>
+		<gender>m</gender>
+		<desc>ضمير الغائبين</desc>
+		<sample>فسيكفيكهم</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>هن</unvoweledform>
+		<voweledform>هُنَّ</voweledform>
+		<person>3</person>
+		<number>p</number>
+		<gender>f</gender>
+		<desc>ضمير الغائبات</desc>
+		<sample>هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>ني</unvoweledform>
+		<voweledform>نِي</voweledform>
+		<person>1</person>
+		<number>s</number>
+		<gender>n</gender>
+		<desc>نون الوقاية+ياء المتكلم</desc>
+		<sample>يا ليتني كنت تراباً</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>ي</unvoweledform>
+		<voweledform>ي</voweledform>
+		<person>1</person>
+		<number>s</number>
+		<gender>n</gender>
+		<desc>ياء المتكلم</desc>
+		<sample>يا إلهي وملاذي</sample>
+	</enclitic>
+	<enclitic>
+		<unvoweledform>نا</unvoweledform>
+		<voweledform>نَا</voweledform>
+		<person>1</person>
+		<number>p</number>
+		<gender>n</gender>
+		<desc>ضمير المتكلمين</desc>
+		<sample>هَذَا عَطَاؤُنَا فَامْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ</sample>
+	</enclitic>
+</enclitics>		
